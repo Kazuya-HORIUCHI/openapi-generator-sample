@@ -1,1 +1,1 @@
-# openapi-generator-sample
+# Sample of OpenAPI Generator
